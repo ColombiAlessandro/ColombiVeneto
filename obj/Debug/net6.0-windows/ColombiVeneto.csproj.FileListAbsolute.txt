@@ -1,0 +1,17 @@
+C:\Users\colombi.19314\source\repos\ColombiVeneto\ColombiVeneto\bin\Debug\net6.0-windows\ColombiVeneto.exe
+C:\Users\colombi.19314\source\repos\ColombiVeneto\ColombiVeneto\bin\Debug\net6.0-windows\ColombiVeneto.deps.json
+C:\Users\colombi.19314\source\repos\ColombiVeneto\ColombiVeneto\bin\Debug\net6.0-windows\ColombiVeneto.runtimeconfig.json
+C:\Users\colombi.19314\source\repos\ColombiVeneto\ColombiVeneto\bin\Debug\net6.0-windows\ColombiVeneto.dll
+C:\Users\colombi.19314\source\repos\ColombiVeneto\ColombiVeneto\bin\Debug\net6.0-windows\ColombiVeneto.pdb
+C:\Users\colombi.19314\source\repos\ColombiVeneto\ColombiVeneto\obj\Debug\net6.0-windows\ColombiVeneto.csproj.AssemblyReference.cache
+C:\Users\colombi.19314\source\repos\ColombiVeneto\ColombiVeneto\obj\Debug\net6.0-windows\ColombiVeneto.Form1.resources
+C:\Users\colombi.19314\source\repos\ColombiVeneto\ColombiVeneto\obj\Debug\net6.0-windows\ColombiVeneto.csproj.GenerateResource.cache
+C:\Users\colombi.19314\source\repos\ColombiVeneto\ColombiVeneto\obj\Debug\net6.0-windows\ColombiVeneto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colombi.19314\source\repos\ColombiVeneto\ColombiVeneto\obj\Debug\net6.0-windows\ColombiVeneto.AssemblyInfoInputs.cache
+C:\Users\colombi.19314\source\repos\ColombiVeneto\ColombiVeneto\obj\Debug\net6.0-windows\ColombiVeneto.AssemblyInfo.cs
+C:\Users\colombi.19314\source\repos\ColombiVeneto\ColombiVeneto\obj\Debug\net6.0-windows\ColombiVeneto.csproj.CoreCompileInputs.cache
+C:\Users\colombi.19314\source\repos\ColombiVeneto\ColombiVeneto\obj\Debug\net6.0-windows\ColombiVeneto.dll
+C:\Users\colombi.19314\source\repos\ColombiVeneto\ColombiVeneto\obj\Debug\net6.0-windows\refint\ColombiVeneto.dll
+C:\Users\colombi.19314\source\repos\ColombiVeneto\ColombiVeneto\obj\Debug\net6.0-windows\ColombiVeneto.pdb
+C:\Users\colombi.19314\source\repos\ColombiVeneto\ColombiVeneto\obj\Debug\net6.0-windows\ColombiVeneto.genruntimeconfig.cache
+C:\Users\colombi.19314\source\repos\ColombiVeneto\ColombiVeneto\obj\Debug\net6.0-windows\ref\ColombiVeneto.dll
