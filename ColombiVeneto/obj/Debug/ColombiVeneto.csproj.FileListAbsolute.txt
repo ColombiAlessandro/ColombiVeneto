@@ -1,0 +1,10 @@
+C:\Users\aless\Source\Repos\ColombiVeneto\ColombiVeneto\bin\Debug\ColombiVeneto.exe.config
+C:\Users\aless\Source\Repos\ColombiVeneto\ColombiVeneto\bin\Debug\ColombiVeneto.exe
+C:\Users\aless\Source\Repos\ColombiVeneto\ColombiVeneto\bin\Debug\ColombiVeneto.pdb
+C:\Users\aless\Source\Repos\ColombiVeneto\ColombiVeneto\obj\Debug\ColombiVeneto.csproj.AssemblyReference.cache
+C:\Users\aless\Source\Repos\ColombiVeneto\ColombiVeneto\obj\Debug\ColombiVeneto.Form1.resources
+C:\Users\aless\Source\Repos\ColombiVeneto\ColombiVeneto\obj\Debug\ColombiVeneto.Properties.Resources.resources
+C:\Users\aless\Source\Repos\ColombiVeneto\ColombiVeneto\obj\Debug\ColombiVeneto.csproj.GenerateResource.cache
+C:\Users\aless\Source\Repos\ColombiVeneto\ColombiVeneto\obj\Debug\ColombiVeneto.csproj.CoreCompileInputs.cache
+C:\Users\aless\Source\Repos\ColombiVeneto\ColombiVeneto\obj\Debug\ColombiVeneto.exe
+C:\Users\aless\Source\Repos\ColombiVeneto\ColombiVeneto\obj\Debug\ColombiVeneto.pdb
